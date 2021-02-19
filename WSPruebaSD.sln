@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSPruebaSD", "WSPruebaSD\WSPruebaSD.csproj", "{62E8249D-EC03-490F-B111-A0E251FE9EBA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSPruebaSDAPI", "WSPruebaSD\WSPruebaSDAPI.csproj", "{62E8249D-EC03-490F-B111-A0E251FE9EBA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{655E064B-7A22-4501-9A78-87B748F3479B}"
 EndProject

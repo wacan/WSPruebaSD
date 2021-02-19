@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WSPruebaSD.Models
+namespace WSPruebaSDAPI.Models
 {
     using System;
     using System.Collections.Generic;
